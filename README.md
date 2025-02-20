@@ -2,7 +2,7 @@
 
 🔩 **Electronics Enthusiast** | 💻 **Embedded Systems & Software Developer** | 🎵 **DnB/Garage Producer**  
 
-I have a passion for electronics, coding, and embedded systems. Currently, I'm diving deep into **C programming** and working my way into **Electronics & Computer Engineering**.  
+I have a passion for electronics, coding, and embedded systems. Currently, I'm diving deep into **C programming** and working my way into **Electronics & Computer Science Engineering**.  
 
 ---
 
