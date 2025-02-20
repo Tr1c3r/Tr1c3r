@@ -29,9 +29,9 @@ I have a passion for electronics, coding, and embedded systems. Currently, I'm d
 ---
 
 ## 📊 GitHub Stats  
-![Toshio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToshioGallardo&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToshioGallardo&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=ToshioGallardo&theme=tokyonight)  
+![Toshio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tr1c3r&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tr1c3r&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Tr1c3r&theme=tokyonight)  
 
 ---
 
